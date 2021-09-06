@@ -5,7 +5,7 @@ Seit 2019 Developer.
 Discords:
 https://discord.gg/acehosting
 https://discord.gg/pqYWxwVQXV
-https://mega.nz/file/rmpHkaTQ#n0X8J64jUr8fbUO0p5r_bh9fANPF2xvSJufHMYxtqK0
+
 <!---
 Samuelabudev/Samuelabudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
